@@ -2,6 +2,10 @@
 *.exe
 
 # Ejecutables de Linux/Unix
-tp0
-*.out
+*
 
+# No ignorar carpetas
+!/**/
+
+# No ignorar archivos con extensión (como .cpp, .md)
+!*.* 
