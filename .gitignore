@@ -1,1 +1,7 @@
+# Ejecutables de Windows
+*.exe
+
+# Ejecutables de Linux/Unix
+tp0
+*.out
 
